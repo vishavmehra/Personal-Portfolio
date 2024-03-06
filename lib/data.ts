@@ -65,8 +65,8 @@ export const projectsData = [
       "Developed a personal portfolio website highlighting a range of projects and my proficiency in various technologies & tools.",
     tags: ["Nextjs", "reactjs", "threejs", "framer motion", "Resend","typescript", "tailwindcss"],
     imageUrl: portfolio,
-    github: "https://drive.google.com/file/d/1jpwZtUDsOiU25KpG_AhLp6eSla2ZAkaQ/view?usp=drive_link",
-    live: "https://drive.google.com/file/d/1jpwZtUDsOiU25KpG_AhLp6eSla2ZAkaQ/view?usp=drive_link",
+    github: "https://github.com/vishavmehra/personal-portfolio",
+    live: "https://personal-portfolio-theta-sepia.vercel.app/",
   },
   {
     title: "Authors",
