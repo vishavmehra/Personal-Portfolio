@@ -38,8 +38,8 @@ export const projectsData = [
       "Developed a music platform allowing users to upload, like and listen to songs.",
     tags: ["Nextjs", "Typescript", "TailwindCSS", "Shadcn", "PostgreSQL"],
     imageUrl: retrogroove,
-    github: "https://drive.google.com/file/d/1jpwZtUDsOiU25KpG_AhLp6eSla2ZAkaQ/view?usp=drive_link",
-    live: "https://drive.google.com/file/d/1jpwZtUDsOiU25KpG_AhLp6eSla2ZAkaQ/view?usp=drive_link",
+    github: "https://github.com/vishavmehra/Retrogroove",
+    live: "https://retrogroove.vercel.app/",
   },
   {
     title: "Listing",
@@ -47,18 +47,18 @@ export const projectsData = [
       "Developed a hotel booking app where users can book selected hotels or list their property.",
     tags: ["Nextjs",  "reactjs", "typescript","TailwindCSS", "Prisma", "Postgresql", "Oauth"],
     imageUrl: listing,
-    github: "https://drive.google.com/file/d/1jpwZtUDsOiU25KpG_AhLp6eSla2ZAkaQ/view?usp=drive_link",
-    live: "https://drive.google.com/file/d/1jpwZtUDsOiU25KpG_AhLp6eSla2ZAkaQ/view?usp=drive_link",
+    github: "https://github.com/vishavmehra/listing",
+    live: "https://listing-byme.vercel.app/",
   },
-  {
-    title: "Jotion",
-    description:
-      "Developed a note-taking web application with user authentication and image upload capabilities.",
-    tags: ["nextjs","reactjs","convex", "tailwindcss", "edgestore", "clerkapi"],
-    imageUrl: jotion,
-    github: "https://drive.google.com/file/d/1jpwZtUDsOiU25KpG_AhLp6eSla2ZAkaQ/view?usp=drive_link",
-    live: "https://drive.google.com/file/d/1jpwZtUDsOiU25KpG_AhLp6eSla2ZAkaQ/view?usp=drive_link",
-  },
+  // {
+  //   title: "Jotion",
+  //   description:
+  //     "Developed a note-taking web application with user authentication and image upload capabilities.",
+  //   tags: ["nextjs","reactjs","convex", "tailwindcss", "edgestore", "clerkapi"],
+  //   imageUrl: jotion,
+  //   github: "https://drive.google.com/file/d/1jpwZtUDsOiU25KpG_AhLp6eSla2ZAkaQ/view?usp=drive_link",
+  //   live: "https://drive.google.com/file/d/1jpwZtUDsOiU25KpG_AhLp6eSla2ZAkaQ/view?usp=drive_link",
+  // },
   {
     title: "Portfolio",
     description:
